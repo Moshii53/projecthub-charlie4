@@ -24,7 +24,4 @@ Project hub is a platform connecting connecting companies to new talent with the
 - Designed and implemented color scheme
 - Created footer component
 - [List other specific contributions]
-### [Team Member 3 Name]
-- Implemented hero section styling
-- Made site responsive for mobile devices
-- [List other specific contributions]
+
