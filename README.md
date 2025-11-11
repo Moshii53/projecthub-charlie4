@@ -3,6 +3,7 @@
 ## Team Members
 - Hedi Bouassida - peroute
 - Zane Munsinger - ZaneMunsinger
+- Michael Brown - Moshii53
 ## Project Description
 Project hub is a platform connecting connecting companies to new talent with the opportunity for CS student to gain work experience and show their skills throught meaningful projects that companies value
 ## Pages Implemented
@@ -23,5 +24,7 @@ Project hub is a platform connecting connecting companies to new talent with the
 ### Zane Munsinger
 - Designed and implemented color scheme
 - Created footer component
+- [List other specific contributions]
+### Michael Brown
 - [List other specific contributions]
 
