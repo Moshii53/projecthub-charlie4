@@ -5,7 +5,7 @@
 - Zane Munsinger - ZaneMunsinger
 - Michael Brown - Moshii53
 ## Project Description
-Project hub is a platform connecting connecting companies to new talent with the opportunity for CS student to gain work experience and show their skills throught meaningful projects that companies value
+Project hub is a platform connecting companies to new talent with the opportunity for CS student to gain work experience and show their skills throught meaningful projects that companies value
 ## Pages Implemented
 1. Landing Page (index.html)
 2. Student Dashboard (student-dashboard.html)
